@@ -1,0 +1,5 @@
+c:\users\cedo\documents\visual studio 2012\Projects\Eventos\Eventos\bin\Debug\Eventos.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\Eventos\Eventos\bin\Debug\Eventos.exe
+c:\users\cedo\documents\visual studio 2012\Projects\Eventos\Eventos\bin\Debug\Eventos.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\Eventos\Eventos\obj\Debug\Eventos.exe
+c:\users\cedo\documents\visual studio 2012\Projects\Eventos\Eventos\obj\Debug\Eventos.pdb
